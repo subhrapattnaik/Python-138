@@ -2,7 +2,9 @@
 
 IMDB
 
-The Full form of IMDB is Internet Movie Database. IMDb is an online database of information related to movies, actors, directors, televisions shows, biographies, reviews, video games, plot summaries, and related information. The information stored on IMDb comes from different sources such as film studios, filmmakers, and other official sources.
+The Full form of IMDB is Internet Movie Database. IMDb is an online database of information related to movies, actors, directors, 
+televisions shows, biographies, reviews, video games, plot summaries, and related information. The information stored on IMDb 
+comes from different sources such as film studios, filmmakers, and other official sources.
 -------------------------------------------
 
 
