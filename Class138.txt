@@ -1,0 +1,28 @@
+Data Collection : Data is used to create more efficient systems
+Recommendation systems are a type of information filtering system as they improve the quality of search results and provide items that are more relevant to the searched item or are related to the search history
+
+Amazon uses this to suggest products 
+
+Youtube uses it to decide which video to plan next on autoplay 
+
+Facebook uses it to recommend pages to like and people to follow
+
+Companies like Netflix and Spotify depend highly n the effectivness of their recommendation engines for their business 
+
+
+There are mainly three types of recommendation systems 
+
+1) Demographic filtering (A particular sector of a population)
+a-they offer generalized recomendations to every user, based on movie popularity
+b-the system recommends the same movies to users with similar demographic features 
+c-since each user is different this approach is considered to be to simple 
+d- the basic idea behind this system is that movies which more popular and critically acclaimed will have a higher probability of being liked by the average audience
+
+2) Content-based Filtering :
+they suggest similar items based on a particular item.
+the system uses item meta-data such as genre, director,description,actors etc or movies to make these recommendations
+the general idea behind this recommendation system is that if a person likes a particular item he/she will also like an item that is similar to it 
+
+3) Collaborative Filtering :
+this system matches persons woth similar interests and provides recommendations based on this matching 
+Collaborative filters do not require item meta-data like it's Content based couterparts
